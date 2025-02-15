@@ -23,14 +23,14 @@ const ContactInfo = () => {
           <ContactItem 
             icon={<Mail className="w-6 h-6 text-blue-600" />}
             title="Email"
-            content="vikashmishra8371@gmail.com"
-            link="mailto:vikashmishra8371@gmail.com"
+            content="ms8755301254@gmail.com"
+            link="mailto:ms8755301254@gmail.com"
           />
           <ContactItem 
             icon={<Phone className="w-6 h-6 text-blue-600" />}
             title="Phone"
-            content="+91-8979481819"
-            link="tel:+918979481819"
+            content="+91-8755301254"
+            link="tel:+91-8755301254"
           />
           <ContactItem 
             icon={<MapPin className="w-6 h-6 text-blue-600" />}
